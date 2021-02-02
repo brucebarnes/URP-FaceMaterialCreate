@@ -27,7 +27,7 @@ Instructions
     
 <img src=https://github.com/brucebarnes/URP-FaceMaterialCreate/blob/main/DemoChangeFaceAndBugFix.gif/>
 
-<h2>License>/h2>
+<h2>License</h2>
  MIT License
 <h1>Questions?</h1>
 PM me @majorbatman#7731 on Official Synty Studios Discord
