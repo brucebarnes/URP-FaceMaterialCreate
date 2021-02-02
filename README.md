@@ -5,7 +5,7 @@
  <img src=https://github.com/brucebarnes/URP-FaceMaterialCreate/blob/main/DemoEditorButtonAndFileStructure.gif/>
  
 Instructions
-1) Install MaterialGenerator.cs in folder named Editor (Create if you don't have)
+1) Install MaterialGenerator.cs in folder named Editor (Create if you don't have) || Import URP-FadFaceMaterialCreator.unitypackage into your project
 2) Install entire PolygonKids asset into a folder named Resources  should look like
    /Assets/Resources/PolygonKids/Materials
                                 /Models
@@ -27,5 +27,7 @@ Instructions
     
 <img src=https://github.com/brucebarnes/URP-FaceMaterialCreate/blob/main/DemoChangeFaceAndBugFix.gif/>
 
+<h2>License>/h2>
+ MIT License
 <h1>Questions?</h1>
 PM me @majorbatman#7731 on Official Synty Studios Discord
