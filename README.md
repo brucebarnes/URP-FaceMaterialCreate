@@ -18,6 +18,7 @@ Instructions
 4) Wait for the "Done!" to populate in the Console
 5) URP Face Materials are created in /Assets/Resources/PolygonKids/Textures/MaterialFaces
 6) Use these materials by Changing the Material set on each Prefab
+
     *Note1: If all your prefabs are still pink, you will want to go to Edit->Render Pipeline->Universal Render Pipeline -> Upgrade Project Materials to URP*
 
     *Note2: The location to change Face Materials is in each Prefab/Root/Hips/Spine1/Spine2/Spine3/Neck/Head/SM_Chr_Kid_Face_01.*
